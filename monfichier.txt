@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welcome to IA
+=======
+welcome to ia school
+>>>>>>> ma_nouvelle_branche
